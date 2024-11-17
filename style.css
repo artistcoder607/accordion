@@ -129,4 +129,17 @@ display: none;
     .card1, .box2 {
         width: 80vw;
     }
+
+    .para2 {
+        font-size: 13px;
+    width: 87%;
+    }
+
+    .para {
+        font-size: 11px;
+    }
+
+    .main-heading {
+        font-size: 28px;
+    }
 }
